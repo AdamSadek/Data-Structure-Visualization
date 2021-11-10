@@ -1,0 +1,10 @@
+.visu-container {
+  position: absolute;
+  left: 100px;
+}
+.visu-navbar {
+  width: 3px;
+  display: inline-block;
+  background-color: black;
+  margin: 0 1px;
+}
